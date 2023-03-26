@@ -147,6 +147,8 @@ http://localhost:5678/webhook/unoapi
 <img src="https://github.com/EngajamentoFlow/liberarunoapi/blob/main/WhatsApp%20Image%202023-03-23%20at%2012.41.11.jpeg" alt="Quepasa-logo" width="1000" />
 </p>
 ----------------------------------------------------------------------------
+</p>
+**OBS. o nome do banco de dados é "chatwoot_production"
 ----------------------------------------------------------------------------
 
 **Pronto tudo Funcionando**
